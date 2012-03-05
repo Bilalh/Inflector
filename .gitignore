@@ -1,0 +1,98 @@
+# Folders #
+bin/
+tmp/
+
+# automatic backup files #
+*~.nib
+*.swp
+*~
+*~
+\#*
+.\#*
+*(Autosaved).rtfd/
+Backup[ ]of[ ]*.pages/
+Backup[ ]of[ ]*.key/
+Backup[ ]of[ ]*.numbers/
+
+
+# Xcode 4 #
+xcuserdata/
+project.xcworkspace/
+# Generated files #
+VersionX-revision.h
+
+# Sparkle distribution Private Key (Don’t check me in!) #
+dsa_priv.pem
+
+# XCode (and ancestors) per-user config (very noisy, and not relevant) #
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+
+# OS generated files #
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+._*
+.Spotlight-V100
+.Trashes
+Desktop.ini
+
+
+# Binaries #
+*.class
+*.o
+*.out
+
+
+# Version Control #
+.svn/
+
+## CVS ##
+/CVS/*
+*/CVS/*
+.cvsignore
+*/.cvsignore
+
+## Mercurial ##
+/.hg/*
+*/.hg/*
+.hgignore
+
+
+# Tex #
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+*.fls
+*.fmt
+*.ini
+*.log
+*.fdb_latexmk
+*.log
+*.watcher_pid
+*.brf
